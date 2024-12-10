@@ -1,0 +1,6 @@
+#!/bin/sh
+# Custom buildpack detect script
+
+# This can be customized to detect your app type, for now it always returns 0.
+echo "Custom buildpack detected"
+exit 0

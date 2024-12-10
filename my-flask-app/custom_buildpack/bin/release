@@ -1,0 +1,5 @@
+#!/bin/sh
+# Custom buildpack release script
+
+echo "Release phase of custom buildpack"
+exit 0
