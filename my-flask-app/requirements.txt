@@ -71,6 +71,7 @@ google-resumable-media==2.7.1
 googleapis-common-protos==1.63.2
 grpcio==1.64.1
 gsutil==5.30
+gunicorn==23.0.0
 h5py==3.11.0
 httplib2==0.20.4
 huggingface-hub==0.24.2
